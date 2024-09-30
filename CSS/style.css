@@ -1,0 +1,32 @@
+/* body{
+    background-color: aqua;
+}
+
+#container{
+background-color: azure;
+height: 300px;
+border: 2px solid gold;
+
+margin-top: 50px;
+margin-left: 300px;
+padding-top: 100px;
+padding-left: 100px;
+
+
+}
+.child1{
+background-color: brown;
+border: 1px dotted red;
+height: 100px;
+width: 100px;
+padding-top: 20px;
+padding-left: 40px;
+color: aqua;
+} */
+ .continer{
+background-color: black;
+ }
+
+ #cont{
+background-color: red;
+ }
