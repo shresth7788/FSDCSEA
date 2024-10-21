@@ -1,0 +1,33 @@
+body {
+    background: #1A1A1A;
+}
+
+nav {
+    display: flex;
+    padding: 20px;
+    margin: 10px;
+    background: #cc0000;
+    justify-content: space-between;
+}
+
+.nav-items {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav > .nav-items > div {
+    color: black;
+    margin-right: 50px;
+}
+
+.logo {
+    height: inherit;
+    width: 50px;
+}
+
+.logo > img {
+    height: inherit;
+    width: inherit;
+    object-fit: contain;
+}
